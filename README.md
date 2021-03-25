@@ -6,7 +6,10 @@ Aplicación de Todos hecha siguiendo el curso de Fernando Herrera, "JavaScript M
 
 ¡Pruébala [aquí](http://castlop.github.io/todo_web)!
 
-
+## Tecnologías
+* HTML
+* CSS
+* JavaScript
 
 ## Notas de instalación
 
